@@ -1,0 +1,26 @@
+{
+  "TF_BX_FILE1": [
+    {
+      "BIL_ID": "BX",
+      "BIL_NO": "BX22041500000001",
+      "BIL_ITM": "0",
+      "FILE_NAME": "表头1.txt",
+      "FILE_DD": "2022-04-15 16:09:43.000",
+      "CONTENT": "MQ==",
+      "USR": "ADMIN",
+      "FILE_TYPE": ".txt",
+      "FILE_SIZE": "1"
+    },
+    {
+      "BIL_ID": "BX",
+      "BIL_NO": "BX22041500000001",
+      "BIL_ITM": "1",
+      "FILE_NAME": "表身1.txt",
+      "FILE_DD": "2022-04-15 16:09:43.000",
+      "CONTENT": "Mw==",
+      "USR": "ADMIN",
+      "FILE_TYPE": ".txt",
+      "FILE_SIZE": "1"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "REF_NO": "HYPBX2203230001",
+  "PGM": "MONBXWEB",
+  "MF_BX": [
+    {
+      "BX_NO": "",
+      "BX_DD": "2022-03-23 00:00:00.000",
+      "DEP": "D0100",
+      "USR_NO": "004",
+      "PAY_ID": "",
+      "USR": "ADMIN",
+      "CAS_NO": "190B30A001",
+      "REM": ""
+    }
+  ],
+  "TF_BX": [
+    {
+      "BX_NO": "",
+      "BX_DD": "2022-03-23 00:00:00.000",
+      "SDAY": "2022-03-23",
+      "EDAY": "2022-03-23",
+      "ITM": 1,
+      "AMT": "100.00",
+      "AMTN": "100.00",
+      "BX_ITM": 1,
+      "FEE_ID": "01",
+      "FORM_CNT": 0,
+      "REM": "",
+      "TP_NO": "",
+      "ACC_NO": "1111",
+      "AA": "",
+      "CAS_NO": "190B30A001",
+      "SAL_NO": "",
+      "DEP": "D0100",
+      "DEP_NAME": "总部",
+      "SAL_NO_BX": "004",
+      "SAL_BX_NAME": "李达",
+      "CAS_NAME": "新大新项目",
+      "INV_NO": "BX2022032301"
+    },
+    {
+      "BX_NO": "",
+      "BX_DD": "2022-03-23 00:00:00.000",
+      "SDAY": "2022-03-23",
+      "EDAY": "2022-03-23",
+      "ITM": 2,
+      "AMT": "200.00",
+      "AMTN": "200.00",
+      "BX_ITM": 2,
+      "FEE_ID": "02",
+      "FORM_CNT": 0,
+      "REM": "",
+      "TP_NO": "",
+      "ACC_NO": "1011",
+      "AA": "",
+      "CAS_NO": "190B30A001",
+      "SAL_NO": "",
+      "DEP": "D0100",
+      "DEP_NAME": "总部",
+      "SAL_NO_BX": "004",
+      "SAL_BX_NAME": "李达",
+      "CAS_NAME": "新大新项目"
+    }
+  ],
+  "TF_BX_INVNO": [
+    {
+      "BX_NO": "",
+      "ITM": "1",
+      "INV_NO": "BX2022032301"
+    },
+    {
+      "BX_NO": "",
+      "ITM": "1",
+      "INV_NO": "BX2022032302"
+    }
+  ],
+  "INV_NO": [
+    {
+      "INV_NO": "BX2022032301",
+      "BIL_ID": "BX",
+      "BIL_NO": "",
+      "INV_ID": "21",
+      "INV_DD": "2022-03-23",
+      "INV_YM": "202203",
+      "UNI_NO_BUY": "12345678901234567890",
+      "TITLE_BUY": "365A公司帐套",
+      "AMT": "20",
+      "TAX": "0",
+      "TAX_ID1": "1",
+      "TAX_ID2": "1",
+      "DEP": "D0100",
+      "SYS_DATE": "2022-03-23 20:21:40.000",
+      "INV_TT": "1",
+      "BUY_ADR": "珠海香洲区唐家大学路101号清华科技园B座3F",
+      "BUY_TEL": "0756-3869999"
+    }
+  ],
+  "TF_BX_FILE1": [
+    {
+      "BIL_ID": "BX",
+      "BIL_NO": "",
+      "BIL_ITM": "0",
+      "FILE_NAME": "表头1.txt",
+      "FILE_DD": "2022-03-23 14:44:43.000",
+      "CONTENT": "MQ==",
+      "USR": "004",
+      "FILE_TYPE": ".txt",
+      "FILE_SIZE": "1"
+    }
+  ]
+}

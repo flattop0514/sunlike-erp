@@ -1,0 +1,33 @@
+{
+  "REF_NO": "@GUID",
+  "PGM": "DRPGW",
+  "MF_GW": [
+    {
+      "GW_ID": "GW",
+      "GW_NO": "",
+      "GW_DD": "2026-08-03",
+      "SAL_NO": "001",
+      "DEP": "0001",
+      "USR": "ADMIN",
+      "CHK_MAN": "ADMIN"
+    }
+  ],
+  "TF_GW": [
+    {
+      "GW_ID": "GW",
+      "GW_NO": "",
+      "ITM": 1,
+      "STA_DD": "2026-08-04 08:00:00",
+      "END_DD": "2026-08-06 18:00:00",
+      "STA_COUN_ID": 440402,
+      "END_COUN_ID": 110105,
+      "STA_ADR": "吉大水湾路",
+      "END_ADR": "东大街",
+      "TRAVEL_BY": "飞机",
+      "AMT": 1350,
+      "REM": "拜访客户",
+      "BOOKING_ID": "N",
+      "DAYS": 3
+    }
+  ]
+}

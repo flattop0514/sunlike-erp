@@ -1,0 +1,15 @@
+{
+  "REF_NO": "@GUID",
+  "PGM": "CARD_DETAIL",
+  "TF_SKTZ": [
+    {
+      "YG_NO": "002",
+      "SZ_NO": "C12",
+      "TRS_DD": "2026-08-18 18:00:00",
+      "SZ_YM": "2026-08-01",
+      "USR": "ADMIN",
+      "CHK_ID": "Y",
+      "CHK_MAN": "ADMIN"
+    }
+  ]
+}
